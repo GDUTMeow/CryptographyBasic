@@ -1,0 +1,11 @@
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    > /Users/GamerNoTitle/.agents/skills/pentest-tools/src-hunter/references/.gitkeep
+    > /Users/GamerNoTitle/hoyoplay_files/.xattr_removed
+    > /Users/GamerNoTitle/hoyoplay_files/.translation_layer_installed
+
+Hash: 916d2ae94a3f9440b0db932b60a323e5980da640ec4fb2d07d5cbd74df0497f2
+    > /Users/GamerNoTitle/iot_db/hid_filters_v2/conf
+    > /Users/GamerNoTitle/iot_db/web_driver/iot_db/user/conf
+    > /Users/GamerNoTitle/iot_db/web_driver/iot_db/db_img_share/conf
+    > /Users/GamerNoTitle/iot_db/conf
+
