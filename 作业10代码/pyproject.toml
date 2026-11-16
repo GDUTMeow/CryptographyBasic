@@ -1,0 +1,9 @@
+[project]
+name = "homework10"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "pycryptodome>=4.5.0",
+    "pydantic>=2.14.3",
+]
